@@ -22,7 +22,9 @@ HTML5 (No CSS or JavaScript)
 ✅ Clean and well-commented code for easy readability
 ✅ Fully responsive using HTML best practices
 
-project code link: https://codepen.io/cgfxhebn-the-flexboxer/pen/LEYZmjV
+project URL: https://roadmap.sh/projects/basic-html-website
+
+
 🚀 Getting Started
 Clone the repository:
 
